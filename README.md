@@ -17,3 +17,6 @@
 
 * from konlpy.tag import Okt : Okt 형태소 분석기 사용(트위터 제작)
 * from gensim.models import Word2Vec : Gensim 사용
+
+![image](https://user-images.githubusercontent.com/28869864/117262813-9e55a700-ae8c-11eb-8c80-4da1cee729f9.png)
+(Embedding projector 예시 - '꿀잼' 유사어 파악)
